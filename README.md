@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jeremymartinez01
-- 👨‍🎓 I am on my 2nd year of studies in Computer Science Engineering at Espol
-- 👀 I’m interested in Software Engineering and Full Stack Engineering
-- 🌱 I’m currently learning Full stack Eengineering
-- 💞️ I’m looking to collaborate on data structures or algorithhm projects
+- 👨‍🎓 I am on my last year of studies in Computer Science Engineering at Espol
+- 👀 I’m interested in Software Engineering, Full Stack Engineering and Blockchain Development
+- 🌱 I’m currently learning Blockchain Development
+- 💞️ I’m looking to collaborate on Defi or Web3 projects
 - 📫 How to reach me : jjmg039@hotmail.com 
 
 <!---
